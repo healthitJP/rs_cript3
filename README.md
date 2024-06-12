@@ -1,0 +1,2 @@
+# trip_coder_wasm_rs
+Rustを用いたWebAssemblyで2chのトリップを検索する
